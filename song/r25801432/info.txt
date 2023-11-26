@@ -1,0 +1,9 @@
+#
+Name: Mermaid girl-秋葉工房 MIX-
+Path: 25801432
+Song: 25801432.mp3
+Picture: 25801432.jpg
+Chart: 25801432.json
+Level: IN Lv.15
+Composer: DJ Command
+Charter: 羽梦明 in 4thPecJam

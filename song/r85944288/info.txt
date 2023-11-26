@@ -1,0 +1,9 @@
+#
+Name: 双向监禁
+Path: 85944288
+Song: 85944288.mp3
+Picture: 85944288.jpeg
+Chart: 85944288.json
+Level: IN Lv.14
+Composer: JUSF周存&Sya
+Charter: 羽梦明

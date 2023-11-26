@@ -1,0 +1,9 @@
+#
+Name: Children of the City
+Path: 17466480
+Song: 17466480.mp3
+Picture: 17466480.jpg
+Chart: 17466480.json
+Level: AT Lv.15
+Composer: Mili
+Charter: TRA的er

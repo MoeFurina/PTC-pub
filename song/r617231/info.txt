@@ -1,0 +1,9 @@
+#
+Name: Fine Logic
+Path: 617231
+Song: 617231.mp3
+Picture: 617231.png
+Chart: 617231.json
+Level: IN Lv.14
+Composer: Sephid
+Charter: 雨の咕 X GUGU_QwQ

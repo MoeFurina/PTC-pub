@@ -1,0 +1,9 @@
+#
+Name: 小雨
+Path: 48414797
+Song: 48414797.mp3
+Picture: 48414797.jpg
+Chart: 48414797.json
+Level: IN Lv.13
+Composer: 黄龄 cover.泠鸢yousa
+Charter: 余火

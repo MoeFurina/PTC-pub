@@ -1,0 +1,9 @@
+#
+Name: Emergency2
+Path: 96779832
+Song: 96779832.mp3
+Picture: 96779832.jpg
+Chart: 96779832.json
+Level: WAW Lv.15
+Composer: Project Moon
+Charter: TRADER

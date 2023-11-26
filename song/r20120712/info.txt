@@ -1,0 +1,9 @@
+#
+Name: 月华舞
+Path: 20120712
+Song: 20120712.mp3
+Picture: 20120712.jpg
+Chart: 20120712.json
+Level: IN Lv.14
+Composer: LunaSafari feat. 洛天依
+Charter: 余火、清竹晚星、羽梦明

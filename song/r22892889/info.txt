@@ -1,0 +1,9 @@
+#
+Name: PANDORA PARADOXXX
+Path: 22892889
+Song: 22892889.mp3
+Picture: 22892889.jpg
+Chart: 22892889.json
+Level: AT Lv.16
+Composer: Sazukyo
+Charter: 宇咲柚子's 潘多拉之盒

@@ -1,0 +1,9 @@
+#
+Name: Cosmic Emperor
+Path: 88664444
+Song: 88664444.mp3
+Picture: 88664444.jpg
+Chart: 88664444.json
+Level: IN Lv.14
+Composer: TEAA
+Charter: Rui

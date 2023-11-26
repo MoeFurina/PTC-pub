@@ -1,0 +1,9 @@
+#
+Name: 绝世丑角
+Path: 15341073
+Song: 15341073.mp3
+Picture: 15341073.jpeg
+Chart: 15341073.json
+Level: IN Lv.13
+Composer: 新月冰冰&雨狸&DELA
+Charter: 羽梦明

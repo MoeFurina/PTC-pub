@@ -1,0 +1,9 @@
+#
+Name: Time Traveler
+Path: 64554235
+Song: 64554235.mp3
+Picture: 64554235.jpg
+Chart: 64554235.json
+Level: IN Lv.14
+Composer: |闹闹、| feat.洛天依
+Charter: 余火

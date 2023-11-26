@@ -1,0 +1,9 @@
+#
+Name: 生
+Path: 67880937
+Song: 67880937.mp3
+Picture: 67880937.jpg
+Chart: 67880937.json
+Level: VividCycle Lv.14
+Composer: 泠珞（雨狸&DELA）
+Charter: 羽梦明

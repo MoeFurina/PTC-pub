@@ -1,0 +1,9 @@
+#
+Name: 逆境スペクトル
+Path: 84597540
+Song: 84597540.mp3
+Picture: 84597540.jpg
+Chart: 84597540.json
+Level: IN Lv.14
+Composer: ASCA
+Charter: 逆境の輝き

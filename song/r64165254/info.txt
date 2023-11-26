@@ -1,0 +1,9 @@
+#
+Name: ハッピーフェイクショー
+Path: 64165254
+Song: 64165254.mp3
+Picture: 64165254.png
+Chart: 64165254.json
+Level: AT Lv.14
+Composer: Ponchi♪,はぁち
+Charter: mgr_

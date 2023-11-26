@@ -1,0 +1,9 @@
+#
+Name: 春风来
+Path: 63396493
+Song: 63396493.mp3
+Picture: 63396493.jpg
+Chart: 63396493.json
+Level: IN Lv.14
+Composer: 阿良良木健&苍十三
+Charter: 羽梦明

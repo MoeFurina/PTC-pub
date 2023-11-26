@@ -1,0 +1,9 @@
+#
+Name: 星茶会
+Path: 97447892
+Song: 97447892.mp3
+Picture: 97447892.png
+Chart: 97447892.json
+Level: IN 13
+Composer: 灰澈
+Charter: Lei motif

@@ -1,0 +1,9 @@
+#
+Name: カナタハルカ
+Path: 85460757
+Song: 85460757.mp3
+Picture: 85460757.jpg
+Chart: 85460757.json
+Level: IN Lv.14
+Composer: RADWIMPS
+Charter: Rui and GUGU

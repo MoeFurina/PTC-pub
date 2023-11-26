@@ -1,0 +1,9 @@
+#
+Name: Clear morning
+Path: 15168445
+Song: 15168445.mp3
+Picture: 15168445.jpg
+Chart: 15168445.json
+Level: IN Lv.13
+Composer: 小野貴光 & 小仓唯
+Charter: 紫叶在这理发店

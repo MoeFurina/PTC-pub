@@ -1,0 +1,22 @@
+[
+    {
+        "id": "pt",
+        "name": {
+            "zh-cn": "所有",
+            "en": "All"
+        },
+        "songsListUrls": [
+            "https://chart.phitogether.fun/pt_songs.json"
+        ]
+    },
+    {
+        "id": "pt_special",
+        "name": {
+            "zh-cn": "特殊",
+            "en": "Special"
+        },
+        "songsListUrls": [
+            "https://chart.phitogether.fun/chapters/special.json"
+        ]
+    }
+]

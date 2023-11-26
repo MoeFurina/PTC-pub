@@ -1,0 +1,9 @@
+#
+Name: 罂粟花冠 Forgotten ver.
+Path: 90536056
+Song: 90536056.mp3
+Picture: 90536056.jpeg
+Chart: 90536056.json
+Level: IN Lv.14
+Composer: JUSF周存
+Charter: 羽梦明

@@ -1,0 +1,9 @@
+#
+Name: Fearful Utopia
+Path: 4983088
+Song: 4983088.mp3
+Picture: 4983088.jpg
+Chart: 4983088.json
+Level: IN Lv.15
+Composer: Blue Archive OTS
+Charter: 紫叶 vs. 黑白

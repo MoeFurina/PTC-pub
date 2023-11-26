@@ -1,0 +1,9 @@
+#
+Name: Highscore
+Path: 60125795
+Song: 60125795.mp3
+Picture: 60125795.jpg
+Chart: 60125795.json
+Level: IN Lv.15
+Composer: Panda Eyes&Teminite
+Charter: ICE CANDER
