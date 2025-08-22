@@ -6,7 +6,7 @@
             "en": "All"
         },
         "songsListUrls": [
-            "https://chart.phitogether.fun/pt_songs.json"
+            "https://charts.phitogether.focalors.ltd/pt_songs.json"
         ]
     },
     {
@@ -16,7 +16,7 @@
             "en": "Special"
         },
         "songsListUrls": [
-            "https://chart.phitogether.fun/chapters/special.json"
+            "https://charts.phitogether.focalors.ltd/chapters/special.json"
         ]
     }
 ]
