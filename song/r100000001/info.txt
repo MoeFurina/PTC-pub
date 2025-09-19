@@ -1,8 +1,8 @@
 #
 Name: TECHNOPOLIS 2085
-Song: base.ogg
-Picture: base.png
-Chart: base.json
+Song: 100000001.ogg
+Picture: 100000001.png
+Chart: 100000001.json
 Level: AT Lv.15.7
 Composer: PRASTIK DANCEFLOOR
 Illustrator: SEGA (V17AMax modified)

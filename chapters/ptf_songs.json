@@ -14,7 +14,7 @@
                     "level": "SP",
                     "difficulty": "?",
                     "ranked": false,
-                    "notes": 0
+                    "notes": "0"
                 }
             ],
             "composer": "AiSS vs. 华牧狸w / 夜輪 ft.結月ゆかり",
@@ -34,19 +34,19 @@
                     "id": "r100000001",
                     "song": "r100000001",
                     "charter": "TECHNOXMT vs LATENCYPOLIS",
-                    "chart": "https://ptc.focalors.ltd/song/r100000001/base.json",
+                    "chart": "https://ptc.focalors.ltd/song/r100000001/100000001.json",
                     "level": "AT",
                     "difficulty": "15.7",
                     "ranked": false,
-                    "notes": 0
+                    "notes": "0"
                 }
             ],
             "composer": "PRASTIK DANCEFLOOR",
             "illustrator": "SEGA (V17AMax modified)",
             "name": "TECHNOPOLIS 2085",
-            "song": "https://ptc.focalors.ltd/song/r100000001/base.ogg",
+            "song": "https://ptc.focalors.ltd/song/r100000001/100000001.ogg",
             "edition": "PTF社区自建",
-            "illustration": "https://ptc.focalors.ltd/song/r100000001/base.png",
+            "illustration": "https://ptc.focalors.ltd/song/r100000001/100000001.png",
             "bpm": 170,
             "duration": "00:02:18",
             "preview_start": "00:00:00"
