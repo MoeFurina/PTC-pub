@@ -11,8 +11,8 @@
                     "song": "r100000000",
                     "charter": "今年も「NerSANTA」「BarbarianerSLEDGE」と遊ぼう！！！\\リンゴ198食べ放題//",
                     "chart": "https://ptc.focalors.ltd/song/r100000000/100000000.json",
-                    "level": "IN",
-                    "difficulty": 14,
+                    "level": "SP",
+                    "difficulty": "?",
                     "ranked": false,
                     "notes": 0
                 }
@@ -24,7 +24,31 @@
             "edition": "PTF社区自建",
             "illustration": "https://ptc.focalors.ltd/song/r100000000/100000000.png",
             "bpm": 117,
-            "duration": "00:02:05",
+            "duration": "00:03:46",
+            "preview_start": "00:00:00"
+        },
+        {
+            "id": "r100000001",
+            "charts": [
+                {
+                    "id": "r100000001",
+                    "song": "r100000001",
+                    "charter": "TECHNOXMT vs LATENCYPOLIS",
+                    "chart": "https://ptc.focalors.ltd/song/r100000001/base.json",
+                    "level": "AT",
+                    "difficulty": "15.7",
+                    "ranked": false,
+                    "notes": 0
+                }
+            ],
+            "composer": "PRASTIK DANCEFLOOR",
+            "illustrator": "SEGA (V17AMax modified)",
+            "name": "TECHNOPOLIS 2085",
+            "song": "https://ptc.focalors.ltd/song/r100000001/base.ogg",
+            "edition": "PTF社区自建",
+            "illustration": "https://ptc.focalors.ltd/song/r100000001/base.png",
+            "bpm": 170,
+            "duration": "00:02:18",
             "preview_start": "00:00:00"
         }
     ]

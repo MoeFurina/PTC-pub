@@ -1,0 +1,9 @@
+#
+Name: TECHNOPOLIS 2085
+Song: base.ogg
+Picture: base.png
+Chart: base.json
+Level: AT Lv.15.7
+Composer: PRASTIK DANCEFLOOR
+Illustrator: SEGA (V17AMax modified)
+Charter: TECHNOXMT vs LATENCYPOLIS
