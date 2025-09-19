@@ -1,9 +1,0 @@
-#
-Name: たったそれだけの物語
-Path: 69536916
-Song: 69536916.mp3
-Picture: 69536916.png
-Chart: 69536916.json
-Level: AT Lv.15
-Composer: ucchii0
-Charter: TRADER

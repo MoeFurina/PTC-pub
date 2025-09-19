@@ -1,9 +1,0 @@
-#
-Name: 我在
-Path: 46617012
-Song: 46617012.mp3
-Picture: 46617012.jpg
-Chart: 46617012.json
-Level: Here Lv.14
-Composer: 刘欢
-Charter: 羽梦明 is here

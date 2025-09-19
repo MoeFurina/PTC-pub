@@ -1,9 +1,0 @@
-#
-Name: Netzach
-Path: 19159640
-Song: 19159640.mp3
-Picture: 19159640.jpg
-Chart: 19159640.json
-Level: HE Lv.14
-Composer: PJ MOON
-Charter: TRADER

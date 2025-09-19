@@ -1,9 +1,0 @@
-#
-Name: ☆
-Path: 34985217
-Song: 34985217.mp3
-Picture: 34985217.jpg
-Chart: 34985217.json
-Level: IN Lv.14
-Composer: pepoyo
-Charter: 厂家家家家

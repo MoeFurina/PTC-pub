@@ -1,9 +1,0 @@
-#
-Name: Domineer
-Path: 71839652
-Song: 71839652.mp3
-Picture: 71839652.jpg
-Chart: 71839652.json
-Level: IN Lv.14
-Composer: HOYO-MiX
-Charter: 识之律者忠实的信徒

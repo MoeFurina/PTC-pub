@@ -1,9 +1,0 @@
-#
-Name: 灰色鹦鹉
-Path: 53604803
-Song: 53604803.mp3
-Picture: 53604803.jpg
-Chart: 53604803.json
-Level: Gray Lv.14
-Composer: ChiliChill feat.洛天依
-Charter: 羽梦明

@@ -1,9 +1,0 @@
-#
-Name: 黑暗森林
-Path: 25180474
-Song: 25180474.mp3
-Picture: 25180474.jpeg
-Chart: 25180474.json
-Level: IN Lv.14
-Composer: 雲翼星辰/我的三体
-Charter: Darkwxhsjsn

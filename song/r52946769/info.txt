@@ -1,9 +1,0 @@
-#
-Name: Starlight
-Path: 52946769
-Song: 52946769.mp3
-Picture: 52946769.png
-Chart: 52946769.json
-Level: IN  Lv.13
-Composer: B3LLA & Reichuu
-Charter: Ziyieee

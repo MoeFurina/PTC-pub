@@ -1,9 +1,0 @@
-#
-Name: Unwelcome School (takehirotei hardcore remix)
-Path: 90165993
-Song: 90165993.mp3
-Picture: 90165993.jpg
-Chart: 90165993.json
-Level: IN Lv.15
-Composer: takehirotei
-Charter: 紫叶''人在银行 勿cue''

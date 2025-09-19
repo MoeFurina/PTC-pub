@@ -1,9 +1,0 @@
-#
-Name: 寄明月
-Path: 67515375
-Song: 67515375.mp3
-Picture: 67515375.jpg
-Chart: 67515375.json
-Level: IN Lv.13
-Composer: T2o/纪粹希 feat. 泠鸢yousa & 三无Marblue
-Charter: 宇咲柚子

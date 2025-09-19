@@ -1,22 +1,32 @@
 [
     {
-        "id": "pt",
+        "id": "ptf",
         "name": {
-            "zh-cn": "所有",
-            "en": "All"
+            "zh-cn": "PTF社区自建",
+            "en": "PTF Community"
         },
         "songsListUrls": [
-            "https://chart.phitogether.fun/pt_songs.json"
+            "https://ptc.focalors.ltd/chapters/ptf_songs.json"
+        ]
+    },
+    {
+        "id": "pt",
+        "name": {
+            "zh-cn": "PT社区",
+            "en": "PT Community"
+        },
+        "songsListUrls": [
+            "https://ptc.focalors.ltd/chapters/pt_songs.json"
         ]
     },
     {
         "id": "pt_special",
         "name": {
-            "zh-cn": "特殊",
-            "en": "Special"
+            "zh-cn": "PT特殊",
+            "en": "PT Special"
         },
         "songsListUrls": [
-            "https://chart.phitogether.fun/chapters/special.json"
+            "https://ptc.focalors.ltd/chapters/special.json"
         ]
     }
 ]

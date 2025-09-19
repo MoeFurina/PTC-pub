@@ -1,9 +1,0 @@
-#
-Name: 夏天幻游日记
-Path: 91026573
-Song: 91026573.mp3
-Picture: 91026573.jpg
-Chart: 91026573.json
-Level: warm Lv.13
-Composer: warma & 花p
-Charter: 羽梦明

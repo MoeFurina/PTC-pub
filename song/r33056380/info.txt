@@ -1,9 +1,0 @@
-#
-Name: 疾風忍殺わらにんじゃ
-Path: 33056380
-Song: 33056380.mp3
-Picture: 33056380.jpg
-Chart: 33056380.json
-Level: IN Lv.15
-Composer: pepoyo
-Charter: 厂家家家家

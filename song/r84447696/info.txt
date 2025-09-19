@@ -1,9 +1,0 @@
-#
-Name: 太空电梯
-Path: 84447696
-Song: 84447696.mp3
-Picture: 84447696.jpg
-Chart: 84447696.json
-Level: 0
-Composer: 阿鲲
-Charter: MVsVPD

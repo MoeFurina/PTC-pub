@@ -1,9 +1,0 @@
-#
-Name: unravel
-Path: 1850952
-Song: 1850952.mp3
-Picture: 1850952.jpg
-Chart: 1850952.json
-Level: IN Lv.15
-Composer: 凛として時雨
-Charter: 梦

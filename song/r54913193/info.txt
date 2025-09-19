@@ -1,9 +1,0 @@
-#
-Name: Shed a Light
-Path: 54913193
-Song: 54913193.mp3
-Picture: 54913193.png
-Chart: 54913193.json
-Level: IN Lv.13
-Composer: I don't know
-Charter: kbcrt

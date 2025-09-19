@@ -1,9 +1,0 @@
-#
-Name: 夜航星
-Path: 24427861
-Song: 24427861.mp3
-Picture: 24427861.jpg
-Chart: 24427861.json
-Level: IN Lv.13
-Composer: 三体宇宙/不才
-Charter: DHua

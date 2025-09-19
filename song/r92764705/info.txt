@@ -1,9 +1,0 @@
-#
-Name: The Legend of Assassin
-Path: 92764705
-Song: 92764705.mp3
-Picture: 92764705.jpeg
-Chart: 92764705.json
-Level: 0
-Composer: Dancing Line
-Charter: MVsVPD

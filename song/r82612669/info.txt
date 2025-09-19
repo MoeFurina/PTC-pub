@@ -1,9 +1,0 @@
-#
-Name: Midnight Trip
-Path: 82612669
-Song: 82612669.mp3
-Picture: 82612669.jpg
-Chart: 82612669.json
-Level: IN Lv.13
-Composer: Blue Archive OST
-Charter: 紫"夜"

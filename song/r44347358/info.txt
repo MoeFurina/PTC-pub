@@ -1,9 +1,0 @@
-#
-Name: 只因你太美
-Path: 44347358
-Song: 44347358.mp3
-Picture: 44347358.jpg
-Chart: 44347358.json
-Level: SP Lv.?
-Composer: RK/WILLIUS/蔡徐坤
-Charter: Hoyue is so beautiful

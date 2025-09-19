@@ -1,9 +1,0 @@
-#
-Name: Unwelcome School (t+pazolite Remix)
-Path: 59518266
-Song: 59518266.mp3
-Picture: 59518266.jpg
-Chart: 59518266.json
-Level: AT Lv.16
-Composer: t+pazolite
-Charter: 紫叶抢银行.jpg

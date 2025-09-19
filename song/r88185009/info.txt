@@ -1,9 +1,0 @@
-#
-Name: Rabbit Dance
-Path: 88185009
-Song: 88185009.mp3
-Picture: 88185009.png
-Chart: 88185009.json
-Level: IN Lv.14
-Composer: Blue Archive OST
-Charter: Ziyieee want to become a Rabbit

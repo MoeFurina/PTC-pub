@@ -1,9 +1,0 @@
-#
-Name: 起风了
-Path: 77276477
-Song: 77276477.mp3
-Picture: 77276477.png
-Chart: 77276477.json
-Level: IN Lv.13
-Composer: 高桥优
-Charter: Light

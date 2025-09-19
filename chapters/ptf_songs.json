@@ -1,0 +1,31 @@
+{
+    "count": 0,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "r100000000",
+            "charts": [
+                {
+                    "id": "r100000000",
+                    "song": "r100000000",
+                    "charter": "今年も「NerSANTA」「BarbarianerSLEDGE」と遊ぼう！！！\\リンゴ198食べ放題//",
+                    "chart": "https://ptc.focalors.ltd/song/r100000000/100000000.json",
+                    "level": "IN",
+                    "difficulty": 14,
+                    "ranked": false,
+                    "notes": 0
+                }
+            ],
+            "composer": "AiSS vs. 华牧狸w / 夜輪 ft.結月ゆかり",
+            "illustrator": "Viosgit.No furry.git",
+            "name": "今年も「雪降り、メリクリ」目指して頑張ります！！",
+            "song": "https://ptc.focalors.ltd/song/r100000000/100000000.wav",
+            "edition": "PTF社区自建",
+            "illustration": "https://ptc.focalors.ltd/song/r100000000/100000000.png",
+            "bpm": 117,
+            "duration": "00:02:05",
+            "preview_start": "00:00:00"
+        }
+    ]
+}

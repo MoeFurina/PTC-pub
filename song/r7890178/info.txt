@@ -1,9 +1,0 @@
-#
-Name: Skyscape
-Path: 7890178
-Song: 7890178.mp3
-Picture: 7890178.png
-Chart: 7890178.json
-Level: IN Lv.13
-Composer: Plum
-Charter: Limsicat

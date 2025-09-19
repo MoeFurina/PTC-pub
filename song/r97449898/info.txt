@@ -1,9 +1,0 @@
-#
-Name: 阳光开朗大男孩
-Path: 97449898
-Song: 97449898.mp3
-Picture: 97449898.png
-Chart: 97449898.json
-Level: IN Lv.13
-Composer: 卦者灵风
-Charter: Xiaoyang is Sunshine cheerful big boy
