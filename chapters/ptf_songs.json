@@ -123,7 +123,7 @@
             "id": "rcsqnnobga",
             "charts": [
                 {
-                    "id": "r100000003",
+                    "id": "r100000006",
                     "song": "rcsqnnobga",
                     "charter": "b.b.n.m",
                     "chart": "https://ptc.focalors.ltd/song/r100000004/base_ez.json",
@@ -133,7 +133,7 @@
                     "notes": "0"
                 },
                 {
-                    "id": "r100000004",
+                    "id": "r100000007",
                     "song": "rcsqnnobga",
                     "charter": "h.o.m.e.e.e.",
                     "chart": "https://ptc.focalors.ltd/song/r100000004/base_hd.json",
@@ -143,7 +143,7 @@
                     "notes": "0"
                 },
                 {
-                    "id": "r100000005",
+                    "id": "r100000008",
                     "song": "rcsqnnobga",
                     "charter": "s.t.p.g",
                     "chart": "https://ptc.focalors.ltd/song/r100000004/base_in.json",
@@ -162,6 +162,30 @@
             "bpm": 180,
             "duration": "00:02:04",
             "preview_start": "00:01:28"
+        },
+        {
+            "id": "r100000009",
+            "charts": [
+                {
+                    "id": "r100000009",
+                    "song": "r100000009",
+                    "charter": "白表with决心",
+                    "chart": "https://ptc.focalors.ltd/song/r100000005/100000005.json",
+                    "level": "SP",
+                    "difficulty": "19",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "かめりあ",
+            "illustrator": "佚名",
+            "name": "MEGALOVANIA (Camellia Remix)",
+            "song": "https://ptc.focalors.ltd/song/r100000005/base.mp3",
+            "edition": "PTF社区自建",
+            "illustration": "https://ptc.focalors.ltd/song/r100000005/base.jpg",
+            "bpm": 170,
+            "duration": "00:06:08",
+            "preview_start": "00:00:27"
         }
     ]
 }

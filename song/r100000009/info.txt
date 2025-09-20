@@ -1,0 +1,9 @@
+#
+Name: MEGALOVANIA (Camellia Remix)
+Path: base
+Song: base.mp3
+Picture: base.jpg
+Chart: base.json
+Level: SP Lv.19
+Composer: かめりあ
+Charter: 白表with决心
