@@ -81,7 +81,7 @@
                 {
                     "id": "r100000003",
                     "song": "rcsqn",
-                    "charter": "Pigeon Games",
+                    "charter": "b.b.n.m",
                     "chart": "https://ptc.focalors.ltd/song/r100000003/base_ez.json",
                     "level": "EZ",
                     "difficulty": "3",
@@ -91,7 +91,7 @@
                 {
                     "id": "r100000004",
                     "song": "rcsqn",
-                    "charter": "Pigeon Games",
+                    "charter": "h.o.m.e.e.e.",
                     "chart": "https://ptc.focalors.ltd/song/r100000003/base_hd.json",
                     "level": "HD",
                     "difficulty": "12.2",
@@ -101,7 +101,7 @@
                 {
                     "id": "r100000005",
                     "song": "rcsqn",
-                    "charter": "Pigeon Games",
+                    "charter": "s.t.p.g",
                     "chart": "https://ptc.focalors.ltd/song/r100000003/base_in.json",
                     "level": "IN",
                     "difficulty": "15.9",
@@ -109,10 +109,10 @@
                     "notes": "0"
                 }
             ],
-            "composer": "Pigeon Games",
-            "illustrator": "Pigeon Games",
-            "name": "Pigeon Games Medley",
-            "song": "c.s.q.n",
+            "composer": "Aoi",
+            "illustrator": "Ctymax vs. TNiK feat. 出前",
+            "name": "c.s.q.n",
+            "song": "https://ptc.focalors.ltd/song/r100000003/base.ogg",
             "edition": "PTF社区自建",
             "illustration": "https://ptc.focalors.ltd/song/r100000003/base.png",
             "bpm": 180,
