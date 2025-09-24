@@ -186,6 +186,50 @@
             "bpm": 170,
             "duration": "00:06:08",
             "preview_start": "00:00:27"
+        },
+        {
+            "id": "r100000010",
+            "charts": [
+                {
+                    "id": "r100000010",
+                    "song": "r100000010",
+                    "charter": "ParParianerman",
+                    "chart": "https://ptc.focalors.ltd/song/r100000010/base-ez.json",
+                    "level": "EZ",
+                    "difficulty": "5",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000011",
+                    "song": "r100000010",
+                    "charter": "ParParianerman",
+                    "chart": "https://ptc.focalors.ltd/song/r100000010/base-hd.json",
+                    "level": "HD",
+                    "difficulty": "12.3",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000012",
+                    "song": "r100000010",
+                    "charter": "さるふるふるさ",
+                    "chart": "https://ptc.focalors.ltd/song/r100000010/base-in.json",
+                    "level": "IN",
+                    "difficulty": "15.9",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "ころねぽち With 立秋",
+            "illustrator": "上倉エク",
+            "name": "ぱぴぷぴぷぴぱ",
+            "song": "https://ptc.focalors.ltd/song/r100000010/base.ogg",
+            "edition": "PTF社区自建",
+            "illustration": "https://ptc.focalors.ltd/song/r100000010/base.png",
+            "bpm": 180,
+            "duration": "00:02:58",
+            "preview_start": "00:00:27"
         }
     ]
 }
