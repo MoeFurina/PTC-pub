@@ -1,0 +1,235 @@
+{
+    "count": 0,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "r100000000",
+            "charts": [
+                {
+                    "id": "r100000000",
+                    "song": "r100000000",
+                    "charter": "今年も「NerSANTA」「BarbarianerSLEDGE」と遊ぼう！！！\\リンゴ198食べ放題//",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000000/100000000.json",
+                    "level": "SP",
+                    "difficulty": "?",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "AiSS vs. 华牧狸w / 夜輪 ft.結月ゆかり",
+            "illustrator": "Viosgit.No furry.git",
+            "name": "今年も「雪降り、メリクリ」目指して頑張ります！！",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000000/100000000.wav",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000000/100000000.png",
+            "bpm": 117,
+            "duration": "00:03:46",
+            "preview_start": "00:00:00"
+        },
+        {
+            "id": "r100000001",
+            "charts": [
+                {
+                    "id": "r100000001",
+                    "song": "r100000001",
+                    "charter": "TECHNOXMT vs LATENCYPOLIS",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000001/100000001.json",
+                    "level": "AT",
+                    "difficulty": "15.7",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "PRASTIK DANCEFLOOR",
+            "illustrator": "SEGA (V17AMax modified)",
+            "name": "TECHNOPOLIS 2085",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000001/100000001.ogg",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000001/100000001.png",
+            "bpm": 170,
+            "duration": "00:02:18",
+            "preview_start": "00:00:00"
+        },
+        {
+            "id": "r100000002",
+            "charts": [
+                {
+                    "id": "r100000002",
+                    "song": "r100000002",
+                    "charter": "WHC",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000002/1.pec",
+                    "level": "IN",
+                    "difficulty": "15",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "WHC",
+            "illustrator": "Mechari",
+            "name": "Inverted World",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000002/song.mp3",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000002/cover.jpg",
+            "bpm": 170,
+            "duration": "00:02:13",
+            "preview_start": "00:00:00"
+        },
+        {
+            "id": "rcsqn",
+            "charts": [
+                {
+                    "id": "r100000003",
+                    "song": "rcsqn",
+                    "charter": "b.b.n.m",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000003/base_ez.json",
+                    "level": "EZ",
+                    "difficulty": "3",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000004",
+                    "song": "rcsqn",
+                    "charter": "h.o.m.e.e.e.",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000003/base_hd.json",
+                    "level": "HD",
+                    "difficulty": "12.2",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000005",
+                    "song": "rcsqn",
+                    "charter": "s.t.p.g",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000003/base_in.json",
+                    "level": "IN",
+                    "difficulty": "15.9",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "Aoi",
+            "illustrator": "Ctymax vs. TNiK feat. 出前",
+            "name": "c.s.q.n",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000003/bga.mp4",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000003/base.png",
+            "bpm": 180,
+            "duration": "00:02:04",
+            "preview_start": "00:01:28"
+        },
+        {
+            "id": "rcsqnnobga",
+            "charts": [
+                {
+                    "id": "r100000006",
+                    "song": "rcsqnnobga",
+                    "charter": "b.b.n.m",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000004/base_ez.json",
+                    "level": "EZ",
+                    "difficulty": "3",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000007",
+                    "song": "rcsqnnobga",
+                    "charter": "h.o.m.e.e.e.",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000004/base_hd.json",
+                    "level": "HD",
+                    "difficulty": "12.2",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000008",
+                    "song": "rcsqnnobga",
+                    "charter": "s.t.p.g",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000004/base_in.json",
+                    "level": "IN",
+                    "difficulty": "15.9",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "Aoi",
+            "illustrator": "Ctymax vs. TNiK feat. 出前",
+            "name": "c.s.q.n (without BGA)",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000004/base.ogg",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000004/base.png",
+            "bpm": 180,
+            "duration": "00:02:04",
+            "preview_start": "00:01:28"
+        },
+        {
+            "id": "r100000009",
+            "charts": [
+                {
+                    "id": "r100000009",
+                    "song": "r100000009",
+                    "charter": "白表with决心",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000009/base.json",
+                    "level": "SP",
+                    "difficulty": "19",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "かめりあ",
+            "illustrator": "佚名",
+            "name": "MEGALOVANIA (Camellia Remix)",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000009/base.mp3",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000009/base.jpg",
+            "bpm": 170,
+            "duration": "00:06:08",
+            "preview_start": "00:00:27"
+        },
+        {
+            "id": "r100000010",
+            "charts": [
+                {
+                    "id": "r100000010",
+                    "song": "r100000010",
+                    "charter": "ParParianerman",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000010/base-ez.json",
+                    "level": "EZ",
+                    "difficulty": "5",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000011",
+                    "song": "r100000010",
+                    "charter": "ParParianerman",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000010/base-hd.json",
+                    "level": "HD",
+                    "difficulty": "12.3",
+                    "ranked": false,
+                    "notes": "0"
+                },
+                {
+                    "id": "r100000012",
+                    "song": "r100000010",
+                    "charter": "さるふるふるさ",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000010/base-in.json",
+                    "level": "IN",
+                    "difficulty": "15.9",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "ころねぽち With 立秋",
+            "illustrator": "上倉エク",
+            "name": "ぱぴぷぴぷぴぱ",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000010/base.ogg",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000010/base.png",
+            "bpm": 180,
+            "duration": "00:02:58",
+            "preview_start": "00:00:27"
+        }
+    ]
+}
