@@ -120,50 +120,6 @@
             "preview_start": "00:01:28"
         },
         {
-            "id": "rcsqnnobga",
-            "charts": [
-                {
-                    "id": "r100000006",
-                    "song": "rcsqnnobga",
-                    "charter": "b.b.n.m",
-                    "chart": "https://ptc.focalors.ltd/song/r100000004/base_ez.json",
-                    "level": "EZ",
-                    "difficulty": "3",
-                    "ranked": false,
-                    "notes": "0"
-                },
-                {
-                    "id": "r100000007",
-                    "song": "rcsqnnobga",
-                    "charter": "h.o.m.e.e.e.",
-                    "chart": "https://ptc.focalors.ltd/song/r100000004/base_hd.json",
-                    "level": "HD",
-                    "difficulty": "12.2",
-                    "ranked": false,
-                    "notes": "0"
-                },
-                {
-                    "id": "r100000008",
-                    "song": "rcsqnnobga",
-                    "charter": "s.t.p.g",
-                    "chart": "https://ptc.focalors.ltd/song/r100000004/base_in.json",
-                    "level": "IN",
-                    "difficulty": "15.9",
-                    "ranked": false,
-                    "notes": "0"
-                }
-            ],
-            "composer": "Aoi",
-            "illustrator": "Ctymax vs. TNiK feat. 出前",
-            "name": "c.s.q.n (without BGA)",
-            "song": "https://ptc.focalors.ltd/song/r100000004/base.ogg",
-            "edition": "PTF社区自建",
-            "illustration": "https://ptc.focalors.ltd/song/r100000004/base.png",
-            "bpm": 180,
-            "duration": "00:02:04",
-            "preview_start": "00:01:28"
-        },
-        {
             "id": "r100000009",
             "charts": [
                 {

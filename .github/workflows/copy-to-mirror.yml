@@ -26,7 +26,7 @@ jobs:
 
       - name: Replace links in ptf_songs_ygxz.json
         run: |
-          sed -i 's/ptc\.focalors\.ltd/https:\/\/jsd-proxy.ygxz.in\/gh\/moefurina\/ptc-pub@gh-pages/g' chapters/ptf_songs_ygxz.json
+          sed -i 's/ptc\.focalors\.ltd/jsd-proxy.ygxz.in\/gh\/moefurina\/ptc-pub@gh-pages/g' chapters/ptf_songs_ygxz.json
 
       - name: Write version.txt with unix timestamp
         run: |
