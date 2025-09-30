@@ -1,5 +1,25 @@
 [
     {
+        "id": "ptf_jsdelivr",
+        "name": {
+            "zh-cn": "PTF社区自建 (JSDelivr镜像)",
+            "en": "PTF Community (JSDelivr)"
+        },
+        "songsListUrls": [
+            "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/chapters/ptf_songs_jsd.json"
+        ]
+    },
+    {
+        "id": "ptf_ygxzjsd",
+        "name": {
+            "zh-cn": "PTF社区自建 (一个小站镜像)",
+            "en": "PTF Community (YGXZ Mirror)"
+        },
+        "songsListUrls": [
+            "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/chapters/ptf_songs_ygxz.json"
+        ]
+    },
+    {
         "id": "ptf",
         "name": {
             "zh-cn": "PTF社区自建",

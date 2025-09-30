@@ -1,0 +1,27 @@
+name: Add Mirrors to Charts
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  copy_and_replace:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Copy ptf_songs.json to ptf_songs_jsd.json and ptf_songs_ygxz.json
+        run: |
+          cp chapters/ptf_songs.json chapters/ptf_songs_jsd.json
+          cp chapters/ptf_songs.json chapters/ptf_songs_ygxz.json
+
+      - name: Replace links in ptf_songs_jsd.json
+        run: |
+          sed -i 's/ptc\.focalors\.ltd/cdn.jsdelivr.net\/gh\/moefurina\/ptc-pub@gh-pages/g' chapters/ptf_songs_jsd.json
+
+      - name: Replace links in ptf_songs_ygxz.json
+        run: |
+          sed -i 's/ptc\.focalors\.ltd/https:\/\/jsd-proxy.ygxz.in\/gh\/moefurina\/ptc-pub@gh-pages/g' chapters/ptf_songs_ygxz.json
