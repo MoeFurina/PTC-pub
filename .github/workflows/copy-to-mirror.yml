@@ -2,6 +2,8 @@ name: Add Mirrors to Charts
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
   push:
     branches:
       - gh-pages
@@ -15,8 +17,8 @@ jobs:
 
       - name: Copy ptf_songs.json to ptf_songs_jsd.json and ptf_songs_ygxz.json
         run: |
-          cp chapters/ptf_songs.json chapters/ptf_songs_jsd.json
-          cp chapters/ptf_songs.json chapters/ptf_songs_ygxz.json
+          cat chapters/ptf_songs.json > chapters/ptf_songs_jsd.json
+          cat chapters/ptf_songs.json > chapters/ptf_songs_ygxz.json
 
       - name: Replace links in ptf_songs_jsd.json
         run: |
@@ -25,3 +27,15 @@ jobs:
       - name: Replace links in ptf_songs_ygxz.json
         run: |
           sed -i 's/ptc\.focalors\.ltd/https:\/\/jsd-proxy.ygxz.in\/gh\/moefurina\/ptc-pub@gh-pages/g' chapters/ptf_songs_ygxz.json
+
+      - name: Write version.txt with unix timestamp
+        run: |
+          date +%s > version.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add chapters/ptf_songs_jsd.json chapters/ptf_songs_ygxz.json version.txt
+          git commit -m "chore(charts): replace mirror to charts" || echo "No changes to commit"
+          git push
