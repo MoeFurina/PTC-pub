@@ -210,30 +210,6 @@
             "bpm": 166,
             "duration": "00:02:16",
             "preview_start": "00:00:00"
-        },
-        {
-            "id": "r100000014",
-            "charts": [
-                {
-                    "id": "r100000014",
-                    "song": "r100000014",
-                    "charter": "かをり",
-                    "chart": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.json",
-                    "level": "IN",
-                    "difficulty": "15.1",
-                    "ranked": false,
-                    "notes": "1446"
-                }
-            ],
-            "composer": "YOASOBI",
-            "illustrator": " ©【推しの子】製作委員会",
-            "name": "アイドル",
-            "song": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.mp4",
-            "edition": "PTF社区自建",
-            "illustration": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.webp",
-            "bpm": 166,
-            "duration": "00:03:45",
-            "preview_start": "00:00:54"
         }
     ]
 }
