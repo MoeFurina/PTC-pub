@@ -188,13 +188,13 @@
             "preview_start": "00:00:27"
         },
         {
-            "id": "r100000013",
+            "id": "rking",
             "charts": [
                 {
-                    "id": "r100000013",
-                    "song": "r100000013",
+                    "id": "rking",
+                    "song": "rking",
                     "charter": "WE ARE KINGS",
-                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000013/base.pec",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.pec",
                     "level": "IN",
                     "difficulty": "14.8",
                     "ranked": false,
@@ -204,12 +204,36 @@
             "composer": "Kanaria / GUMI",
             "illustrator": "まふまふ",
             "name": "KING",
-            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000013/base.mp4",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.mp4",
             "edition": "PTF社区自建",
-            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000013/base.webp",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.webp",
             "bpm": 166,
             "duration": "00:02:16",
             "preview_start": "00:00:00"
+        },
+        {
+            "id": "r100000014",
+            "charts": [
+                {
+                    "id": "r100000014",
+                    "song": "r100000014",
+                    "charter": "かをり",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.json",
+                    "level": "IN",
+                    "difficulty": "15.1",
+                    "ranked": false,
+                    "notes": "1446"
+                }
+            ],
+            "composer": "YOASOBI",
+            "illustrator": " ©【推しの子】製作委員会",
+            "name": "アイドル",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.mp4",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.webp",
+            "bpm": 166,
+            "duration": "00:03:45",
+            "preview_start": "00:00:54"
         }
     ]
 }
