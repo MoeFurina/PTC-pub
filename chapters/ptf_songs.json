@@ -192,7 +192,7 @@
             "charts": [
                 {
                     "id": "rking",
-                    "song": "KING",
+                    "song": "rking",
                     "charter": "WE ARE KINGS",
                     "chart": "https://ptc.focalors.ltd/song/rking/base.pec",
                     "level": "IN",
