@@ -194,7 +194,7 @@
                     "id": "rking",
                     "song": "KING",
                     "charter": "WE ARE KINGS",
-                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.json",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.pec",
                     "level": "IN",
                     "difficulty": "14.8",
                     "ranked": true,
