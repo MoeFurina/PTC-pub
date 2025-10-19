@@ -186,6 +186,30 @@
             "bpm": 180,
             "duration": "00:02:58",
             "preview_start": "00:00:27"
+        },
+        {
+            "id": "rking",
+            "charts": [
+                {
+                    "id": "rking",
+                    "song": "KING",
+                    "charter": "WE ARE KINGS",
+                    "chart": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.json",
+                    "level": "IN",
+                    "difficulty": "14.8",
+                    "ranked": true,
+                    "notes": "1012"
+                }
+            ],
+            "composer": "Kanaria / GUMI",
+            "illustrator": "まふまふ",
+            "name": "KING",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.mp4",
+            "edition": "PTF社区自建",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/rking/base.webp",
+            "bpm": 166,
+            "duration": "00:02:16",
+            "preview_start": "00:00:00"
         }
     ]
 }
