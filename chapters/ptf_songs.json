@@ -188,13 +188,13 @@
             "preview_start": "00:00:27"
         },
         {
-            "id": "rking",
+            "id": "r100000013",
             "charts": [
                 {
-                    "id": "rking",
-                    "song": "rking",
+                    "id": "r100000013",
+                    "song": "r100000013",
                     "charter": "WE ARE KINGS",
-                    "chart": "https://ptc.focalors.ltd/song/rking/base.pec",
+                    "chart": "https://ptc.focalors.ltd/song/r100000013/base.pec",
                     "level": "IN",
                     "difficulty": "14.8",
                     "ranked": false,
@@ -204,9 +204,9 @@
             "composer": "Kanaria / GUMI",
             "illustrator": "まふまふ",
             "name": "KING",
-            "song": "https://ptc.focalors.ltd/song/rking/base.mp4",
+            "song": "https://ptc.focalors.ltd/song/r100000013/base.mp4",
             "edition": "PTF社区自建",
-            "illustration": "https://ptc.focalors.ltd/song/rking/base.webp",
+            "illustration": "https://ptc.focalors.ltd/song/r100000013/base.webp",
             "bpm": 166,
             "duration": "00:02:16",
             "preview_start": "00:00:00"
