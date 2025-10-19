@@ -197,7 +197,7 @@
                     "chart": "https://ptc.focalors.ltd/song/rking/base.pec",
                     "level": "IN",
                     "difficulty": "14.8",
-                    "ranked": true,
+                    "ranked": false,
                     "notes": "1012"
                 }
             ],
