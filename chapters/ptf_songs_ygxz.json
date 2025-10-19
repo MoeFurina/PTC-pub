@@ -188,13 +188,13 @@
             "preview_start": "00:00:27"
         },
         {
-            "id": "rking",
+            "id": "r100000013",
             "charts": [
                 {
-                    "id": "rking",
-                    "song": "rking",
+                    "id": "r100000013",
+                    "song": "r100000013",
                     "charter": "WE ARE KINGS",
-                    "chart": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/rking/base.pec",
+                    "chart": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/r100000013/base.pec",
                     "level": "IN",
                     "difficulty": "14.8",
                     "ranked": false,
@@ -204,9 +204,9 @@
             "composer": "Kanaria / GUMI",
             "illustrator": "まふまふ",
             "name": "KING",
-            "song": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/rking/base.mp4",
+            "song": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/r100000013/base.mp4",
             "edition": "PTF社区自建",
-            "illustration": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/rking/base.webp",
+            "illustration": "https://jsd-proxy.ygxz.in/gh/moefurina/ptc-pub@gh-pages/song/r100000013/base.webp",
             "bpm": 166,
             "duration": "00:02:16",
             "preview_start": "00:00:00"
