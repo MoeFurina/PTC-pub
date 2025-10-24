@@ -18,7 +18,6 @@ jobs:
       - name: Copy ptf_songs.json to ptf_songs_jsd.json and ptf_songs_ygxz.json
         run: |
           cat chapters/ptf_songs.json > chapters/ptf_songs_jsd.json
-          cat chapters/ptf_songs.json > chapters/ptf_songs_ygxz.json
 
       - name: Replace links in ptf_songs_jsd.json
         run: |
