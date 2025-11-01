@@ -1,0 +1,9 @@
+﻿#
+Name: 你的颜色
+Path: 38955038
+Song: 38955038.mp3
+Picture: 38955038.jpg
+Chart: 38955038.json
+Level: Color Lv.?
+Composer: HoYo-MiX
+Charter: SrY-ABYSS

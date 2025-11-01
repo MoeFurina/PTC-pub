@@ -234,6 +234,30 @@
             "bpm": 166,
             "duration": "00:03:35",
             "preview_start": "00:00:55"
+        },
+        {
+            "id": "r100000015",
+            "charts": [
+                {
+                    "id": "r100000015",
+                    "song": "r100000015",
+                    "charter": "SrY-ABYSS",
+                    "chart": "https://ptc.focalors.ltd/song/r100000015/base.zip",
+                    "level": "Color",
+                    "difficulty": "?",
+                    "ranked": false,
+                    "notes": "0"
+                }
+            ],
+            "composer": "HoYo-MiX",
+            "illustrator": " ©【推しの子】製作委員会",
+            "name": "你的颜色 Your Color",
+            "song": "https://ptc.focalors.ltd/song/r100000015/base.mp3",
+            "edition": "PTF社区自建",
+            "illustration": "https://ptc.focalors.ltd/song/r100000015/base.jpg",
+            "bpm": 166,
+            "duration": "00:03:35",
+            "preview_start": "00:00:55"
         }
     ]
 }

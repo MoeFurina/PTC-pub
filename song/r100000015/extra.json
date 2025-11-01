@@ -1,0 +1,521 @@
+{
+   "bpm" : [
+      {
+         "bpm" : 185.0,
+         "time" : [ 0, 0, 1 ]
+      }
+   ],
+   "effects" : [
+      {
+         "end" : [ 93, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "chromatic",
+         "start" : [ 65, 0, 1 ],
+         "vars" : {
+            "power" : [
+               {
+                  "easingType" : 8,
+                  "end" : 0.01,
+                  "endTime" : [ 66, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 65, 0, 1 ]
+               },
+               {
+                  "easingType" : 9,
+                  "end" : 0.0,
+                  "endTime" : [ 93, 0, 1 ],
+                  "start" : 0.01,
+                  "startTime" : [ 92, 0, 1 ]
+               }
+            ],
+            "sampleCount" : [
+               {
+                  "easingType" : 1,
+                  "end" : 3.0,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 3.0,
+                  "startTime" : [ 65, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 369, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "chromatic",
+         "start" : [ 337, 0, 1 ],
+         "vars" : {
+            "power" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.02,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 0.02,
+                  "startTime" : [ 337, 0, 1 ]
+               }
+            ],
+            "sampleCount" : [
+               {
+                  "easingType" : 1,
+                  "end" : 3.0,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 3.0,
+                  "startTime" : [ 337, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 385, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "chromatic",
+         "start" : [ 369, 0, 1 ],
+         "vars" : {
+            "power" : [
+               {
+                  "easingType" : 5,
+                  "end" : 0.029999999999999999,
+                  "endTime" : [ 381, 0, 1 ],
+                  "start" : 0.02,
+                  "startTime" : [ 369, 0, 1 ]
+               }
+            ],
+            "sampleCount" : [
+               {
+                  "easingType" : 1,
+                  "end" : 3.0,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 3.0,
+                  "startTime" : [ 369, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 411, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "chromatic",
+         "start" : [ 385, 0, 1 ],
+         "vars" : {
+            "power" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.029999999999999999,
+                  "endTime" : [ 385, 0, 1 ],
+                  "start" : 0.029999999999999999,
+                  "startTime" : [ 385, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 411, 0, 1 ],
+                  "start" : 0.029999999999999999,
+                  "startTime" : [ 409, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 385, 0, 1 ],
+         "global" : true,
+         "line" : 157,
+         "shader" : "fisheye",
+         "start" : [ 369, 0, 1 ],
+         "vars" : {
+            "power" : [
+               {
+                  "easingType" : 5,
+                  "end" : -0.29999999999999999,
+                  "endTime" : [ 381, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 369, 0, 1 ]
+               },
+               {
+                  "easingType" : 5,
+                  "end" : 0.0,
+                  "endTime" : [ 385, 0, 1 ],
+                  "start" : -0.29999999999999999,
+                  "startTime" : [ 381, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 201, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "glitch",
+         "start" : [ 137, 0, 1 ],
+         "vars" : {
+            "blockCount" : [
+               {
+                  "easingType" : 1,
+                  "end" : 30.5,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 30.5,
+                  "startTime" : [ 137, 0, 1 ]
+               }
+            ],
+            "colorRate" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.001,
+                  "endTime" : [ 138, 0, 1 ],
+                  "start" : 0.001,
+                  "startTime" : [ 137, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.002,
+                  "endTime" : [ 171, 0, 1 ],
+                  "start" : 0.002,
+                  "startTime" : [ 171, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0040000000000000001,
+                  "endTime" : [ 185, 0, 1 ],
+                  "start" : 0.0040000000000000001,
+                  "startTime" : [ 185, 0, 1 ]
+               }
+            ],
+            "power" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.001,
+                  "endTime" : [ 137, 0, 1 ],
+                  "start" : 0.001,
+                  "startTime" : [ 137, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.002,
+                  "endTime" : [ 171, 0, 1 ],
+                  "start" : 0.002,
+                  "startTime" : [ 171, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0040000000000000001,
+                  "endTime" : [ 185, 0, 1 ],
+                  "start" : 0.0040000000000000001,
+                  "startTime" : [ 185, 0, 1 ]
+               }
+            ],
+            "rate" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.001,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 0.001,
+                  "startTime" : [ 137, 0, 1 ]
+               }
+            ],
+            "speed" : [
+               {
+                  "easingType" : 1,
+                  "end" : 5.0,
+                  "endTime" : [ 138, 0, 1 ],
+                  "start" : 5.0,
+                  "startTime" : [ 137, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 10.0,
+                  "endTime" : [ 171, 0, 1 ],
+                  "start" : 10.0,
+                  "startTime" : [ 171, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 15.0,
+                  "endTime" : [ 185, 0, 1 ],
+                  "start" : 15.0,
+                  "startTime" : [ 185, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 241, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "glitch",
+         "start" : [ 225, 0, 1 ],
+         "vars" : {
+            "colorRate" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.02,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 0.02,
+                  "startTime" : [ 225, 0, 1 ]
+               }
+            ],
+            "power" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.040000000000000001,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 0.040000000000000001,
+                  "startTime" : [ 225, 0, 1 ]
+               }
+            ],
+            "speed" : [
+               {
+                  "easingType" : 1,
+                  "end" : 20.0,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 20.0,
+                  "startTime" : [ 225, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 313, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "glitch",
+         "start" : [ 289, 0, 1 ],
+         "vars" : {
+            "colorRate" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.001,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 0.001,
+                  "startTime" : [ 289, 0, 1 ]
+               }
+            ],
+            "power" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.001,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 0.001,
+                  "startTime" : [ 289, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 328, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "glitch",
+         "start" : [ 313, 0, 1 ],
+         "vars" : {
+            "blockCount" : [
+               {
+                  "easingType" : 1,
+                  "end" : 30.5,
+                  "endTime" : [ 328, 0, 1 ],
+                  "start" : 30.5,
+                  "startTime" : [ 313, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 328, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 328, 0, 1 ]
+               }
+            ],
+            "colorRate" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.01,
+                  "endTime" : [ 327, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 313, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 328, 0, 1 ],
+                  "start" : 0.01,
+                  "startTime" : [ 327, 0, 1 ]
+               }
+            ],
+            "power" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.01,
+                  "endTime" : [ 327, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 313, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 328, 0, 1 ],
+                  "start" : 0.01,
+                  "startTime" : [ 327, 0, 1 ]
+               }
+            ],
+            "rate" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.59999999999999998,
+                  "endTime" : [ 327, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 313, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 328, 0, 1 ],
+                  "start" : 0.59999999999999998,
+                  "startTime" : [ 327, 0, 1 ]
+               }
+            ],
+            "speed" : [
+               {
+                  "easingType" : 1,
+                  "end" : 10.0,
+                  "endTime" : [ 327, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 313, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 328, 0, 1 ],
+                  "start" : 10.0,
+                  "startTime" : [ 327, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 29, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "grayscale",
+         "start" : [ 1, 0, 1 ],
+         "vars" : {
+            "factor" : [
+               {
+                  "easingType" : 1,
+                  "end" : 1.0,
+                  "endTime" : [ 2, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 1, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 33, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "grayscale",
+         "start" : [ 29, 0, 1 ],
+         "vars" : {
+            "factor" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 33, 0, 1 ],
+                  "start" : 1.0,
+                  "startTime" : [ 29, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 411, 0, 1 ],
+         "global" : true,
+         "line" : 156,
+         "shader" : "grayscale",
+         "start" : [ 337, 0, 1 ],
+         "vars" : {
+            "factor" : [
+               {
+                  "easingType" : 1,
+                  "end" : 0.5,
+                  "endTime" : [ 478, 0, 1 ],
+                  "start" : 0.5,
+                  "startTime" : [ 337, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 477, 0, 1 ],
+         "global" : true,
+         "line" : 153,
+         "shader" : "vignette",
+         "start" : [ 412, 0, 1 ],
+         "vars" : {
+            "extend" : [
+               {
+                  "easingType" : 12,
+                  "end" : 2.0,
+                  "endTime" : [ 418, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 412, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 470, 0, 1 ],
+                  "start" : 2.0,
+                  "startTime" : [ 461, 0, 1 ]
+               }
+            ]
+         }
+      },
+      {
+         "end" : [ 406, 0, 1 ],
+         "global" : true,
+         "line" : 155,
+         "shader" : "vignette",
+         "start" : [ 313, 0, 1 ],
+         "vars" : {
+            "extend" : [
+               {
+                  "easingType" : 9,
+                  "end" : 1.0,
+                  "endTime" : [ 327, 0, 1 ],
+                  "start" : 0.0,
+                  "startTime" : [ 313, 0, 1 ]
+               },
+               {
+                  "easingType" : 12,
+                  "end" : 0.5,
+                  "endTime" : [ 336, 0, 1 ],
+                  "start" : 1.0,
+                  "startTime" : [ 332, 0, 1 ]
+               },
+               {
+                  "easingType" : 5,
+                  "end" : 1.0,
+                  "endTime" : [ 381, 0, 1 ],
+                  "start" : 0.5,
+                  "startTime" : [ 369, 0, 1 ]
+               },
+               {
+                  "easingType" : 5,
+                  "end" : 0.5,
+                  "endTime" : [ 385, 0, 1 ],
+                  "start" : 1.0,
+                  "startTime" : [ 381, 0, 1 ]
+               },
+               {
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 404, 0, 1 ],
+                  "start" : 0.5,
+                  "startTime" : [ 400, 0, 1 ]
+               }
+            ]
+         }
+      }
+   ]
+}
