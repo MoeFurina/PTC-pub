@@ -1,0 +1,14 @@
+https://charts.phi.focalors.ltd/*
+  Access-Control-Allow-Origin: *
+
+https://ptc.focalors.ltd/*
+  Access-Control-Allow-Origin: *
+
+https://*charts*/*
+  Access-Control-Allow-Origin: *
+
+*
+  Access-Control-Allow-Origin: *
+
+*/*
+  Access-Control-Allow-Origin: *
