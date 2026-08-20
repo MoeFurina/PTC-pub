@@ -1,0 +1,9 @@
+#
+Name: Introduction
+Path: Introduction
+Song: Introduction.mp3
+Picture: Introduction.png
+Chart: Introduction.json
+Level: Medium - Lv.6
+Composer: 姜米條
+Charter: 星空孤雁
