@@ -251,9 +251,9 @@
             "composer": "姜米條",
             "illustrator": " Pigeon Games",
             "name": "Introduction",
-            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.mp3",
+            "song": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r-intro/base.mp3",
             "edition": "PTF社区自建",
-            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r100000014/base.png",
+            "illustration": "https://cdn.jsdelivr.net/gh/moefurina/ptc-pub@gh-pages/song/r-intro/base.png",
             "bpm": 166,
             "duration": "00:03:35",
             "preview_start": "00:00:55"
