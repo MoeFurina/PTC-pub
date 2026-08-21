@@ -1,8 +1,8 @@
 #
 Name: Introduction
 Path: Introduction
-Song: Introduction.mp3
-Picture: Introduction.png
+Song: base.mp3
+Picture: base.png
 Chart: Introduction.json
 Level: Medium - Lv.6
 Composer: 姜米條
